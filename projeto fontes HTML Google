@@ -1,6 +1,10 @@
 <html>
-    <head></head>
+    <head>
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+         <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap" rel="stylesheet">
+    </head>
     <body>
-        <h1>Bem vindo ao meu site<h/1>
+        <h1 style="font-family: 'Rubik', sans-serif;">Bem vindo ao meu site<h/1>
     </body>
 </html>
